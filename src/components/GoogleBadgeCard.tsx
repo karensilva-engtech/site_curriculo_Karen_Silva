@@ -54,7 +54,7 @@ const COURSES: Course[] = [
   {
     id: 8,
     title: '8. Projeto Final: Complete um Estudo de Caso',
-    tools: 'SQL, R, Tableau, Google Sheets',
+    tools: 'SQL, Python, Tableau, Google Sheets',
     skills: 'Portfólio, estudo de caso completo, processo analítico end-to-end',
   },
   {
