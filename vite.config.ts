@@ -4,9 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  plugins: [react()],
-  base: '/site_curriculo_Karen_Silva/',
   return {
+    base: './',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
